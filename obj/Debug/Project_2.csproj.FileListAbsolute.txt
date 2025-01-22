@@ -1,0 +1,33 @@
+C:\Users\nguye\OneDrive\Documents\COP4365\Project_2\bin\Debug\Project_2.exe.config
+C:\Users\nguye\OneDrive\Documents\COP4365\Project_2\bin\Debug\Project_2.exe
+C:\Users\nguye\OneDrive\Documents\COP4365\Project_2\bin\Debug\Project_2.pdb
+C:\Users\nguye\OneDrive\Documents\COP4365\Project_2\obj\Debug\Project_2.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\COP4365\Project_2\obj\Debug\Project_2.LoadForm.resources
+C:\Users\nguye\OneDrive\Documents\COP4365\Project_2\obj\Debug\Project_2.ChartForm.resources
+C:\Users\nguye\OneDrive\Documents\COP4365\Project_2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\COP4365\Project_2\obj\Debug\Project_2.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Documents\COP4365\Project_2\obj\Debug\Project_2.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\COP4365\Project_2\obj\Debug\Project_2.exe
+C:\Users\nguye\OneDrive\Documents\COP4365\Project_2\obj\Debug\Project_2.pdb
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2\COP4365-Stock-Project-2\bin\Debug\Project_2.exe.config
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2\COP4365-Stock-Project-2\bin\Debug\Project_2.exe
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2\COP4365-Stock-Project-2\bin\Debug\Project_2.pdb
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2\COP4365-Stock-Project-2\obj\Debug\Project_2.csproj.AssemblyReference.cache
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2\COP4365-Stock-Project-2\obj\Debug\Project_2.Form_input.resources
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2\COP4365-Stock-Project-2\obj\Debug\Project_2.ChartForm.resources
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2\COP4365-Stock-Project-2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2\COP4365-Stock-Project-2\obj\Debug\Project_2.csproj.GenerateResource.cache
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2\COP4365-Stock-Project-2\obj\Debug\Project_2.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2\COP4365-Stock-Project-2\obj\Debug\Project_2.exe
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2\COP4365-Stock-Project-2\obj\Debug\Project_2.pdb
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\obj\Debug\Project_2.csproj.AssemblyReference.cache
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\obj\Debug\Project_2.Form_input.resources
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\obj\Debug\Project_2.csproj.GenerateResource.cache
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\obj\Debug\Project_2.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\obj\Debug\Project_2.exe
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\obj\Debug\Project_2.pdb
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\bin\Debug\Project_2.exe.config
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\bin\Debug\Project_2.exe
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\bin\Debug\Project_2.pdb
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\obj\Debug\Project_2.Form_display.resources

@@ -1,0 +1,12 @@
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\obj\Debug\Stock_Loader_2.csproj.AssemblyReference.cache
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\obj\Debug\Project_2.Form_input.resources
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\obj\Debug\Project_2.Form_display.resources
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\obj\Debug\Stock_Loader_2.Properties.Resources.resources
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\obj\Debug\Stock_Loader_2.csproj.GenerateResource.cache
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\obj\Debug\Stock_Loader_2.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\bin\Debug\Stock_Loader_2.exe.config
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\bin\Debug\Stock_Loader_2.exe
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\bin\Debug\Stock_Loader_2.pdb
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\obj\Debug\Stock_Loader_2.exe
+C:\Users\johan\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\COP4365-Stock-Project-2_BASE - Copy\COP4365-Stock-Project-2\obj\Debug\Stock_Loader_2.pdb
+C:\Users\johan\Downloads\Stock_Loader_3\bin\Debug\Stock_Loader_2.exe
